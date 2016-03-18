@@ -1,0 +1,84 @@
+{
+  "domID": "#demo_Browser",
+  "itemName": "yarimada",
+  "source": {
+    "gdocId": "1E8dKbz_F8JiPbkJOY_Az-HW_iXwNhIFzrGSjyU6qt5U",
+    "tables": [
+      {
+        "name": "yarimada",
+        "id": "id"
+      }
+    ],
+    "url": "https://docs.google.com/spreadsheet/ccc?key=1E8dKbz_F8JiPbkJOY_Az-HW_iXwNhIFzrGSjyU6qt5U"
+  },
+  "summaries": [
+    {
+      "name": "Rota Başlangıç",
+      "panel": "left"
+    },
+    {
+      "name": "Rota Bitiş",
+      "panel": "left"
+    },
+    {
+      "name": "Dakika",
+      "panel": "left"
+    },
+    {
+      "name": "En Yüksek \n (m)",
+      "panel": "left"
+    },
+    {
+      "name": "Zorluk \n Derecesi",
+      "panel": "left"
+    },
+    {
+      "name": "Yerleşim Yeri",
+      "panel": "right"
+    },
+    {
+      "name": "Kamp Yeri",
+      "panel": "right"
+    },
+    {
+      "name": "Plaj Yeri",
+      "panel": "right"
+    },
+    {
+      "name": "Tarihi Yer",
+      "panel": "right"
+    },
+    {
+      "name": "Pazar Yeri",
+      "panel": "right"
+    },
+    {
+      "name": "İçilebilir Su Kaynağı",
+      "panel": "right"
+    },
+    {
+      "name": "Deniz/Göl/Gölet/Dere",
+      "panel": "right"
+    },
+    {
+      "name": "Türü",
+      "panel": "middle"
+    }
+  ],
+  "leftPanelLabelWidth": 160,
+  "rightPanelLabelWidth": 160,
+  "middlePanelLabelWidth": 160,
+  "recordDisplay": {
+    "displayType": "list",
+    "textSearch": "id",
+    "recordView": "id",
+    "sortBy": [
+      "id",
+      "Dakika",
+      "Zorluk \n Derecesi",
+      "En Yüksek \n (m)"
+    ],
+    "sortColWidth": 50,
+    "detailsToggle": "zoom"
+  }
+}
