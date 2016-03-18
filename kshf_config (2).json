@@ -73,12 +73,21 @@
     "textSearch": "id",
     "recordView": "id",
     "sortBy": [
-      "id",
-      "Dakika",
-      "Zorluk \n Derecesi",
-      "En Yüksek \n (m)"
+      "id"
     ],
     "sortColWidth": 50,
-    "detailsToggle": "zoom"
-  }
-}
+    "detailsToggle": "zoom",
+    textSearch: "Etap-Parkur-Kamp Adı",
+    recordView: function(){
+      var str=this['Etap-Parkur-Kamp Adı'];
+      if(this)['Ayrıntılı Bilgi İçin']
+      str+="img class='KaynakFoto' src=
+      return str;
+      
+    }
+    }
+});
+});
+</script>
+<style id="kshfStyle">
+.KaynakFoto
